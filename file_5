@@ -2,5 +2,9 @@ This is our 5th file but only the first file of our new clone!
 
 This file is now in both folders.
 
+<<<<<<< HEAD
 This is an update to file_5 in first_repository
 
+=======
+This is an update to file_5 in first_repository_clone
+>>>>>>> f67c9e9db09b7bbc3da75506562ab3220ff620ec
